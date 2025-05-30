@@ -1,0 +1,11 @@
+{
+  "printWidth": 120,
+  "singleQuote": false,
+  "trailingComma": "all",
+  "bracketLine": false,
+  "proseWrap": "preserve",
+  "htmlWhitespaceSensitivity": "css",
+  "endOfLine": "lf",
+  "singleAttributePerLine": false,
+  "eslintIntegration": true
+}
